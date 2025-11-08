@@ -12,5 +12,6 @@ const calcButton = document.getElementById("calcButton");
 const Output = document.getElementById("Output");
 calcButton.addEventListener("click", clickHandle);
 function clickHandle() {
-  Output=radiusInput * 3.14
+   Output=input * 3.14
+
 }
