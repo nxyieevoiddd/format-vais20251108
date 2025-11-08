@@ -6,6 +6,7 @@
 
 // 2.uzdevums
 // Izveidojiet primitīvu HTML un JS kalkulātora aplikāciju, kas lietotājam ļauj sareizināt un izdalīt divus skaitļus.
+// jabūtu iedots vairāk laika atkortošanai būtu labāk
 console.log(Output);
 const input = document.getElementById("radiusInput");
 const calcButton = document.getElementById("calcButton");
